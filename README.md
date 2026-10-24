@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi
 
 ## testing github things
